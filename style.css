@@ -191,6 +191,7 @@
         background-color: #6a6a6a;
         border: 2px solid rgb(42, 42, 42);
         padding: 1vh 15vh;
+        display: flex;
         color: white;
         text-decoration: none;
         font-family: VT323;
