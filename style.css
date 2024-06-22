@@ -117,7 +117,7 @@
     background-color: #6a6a6a;
     border: 2px solid rgb(42, 42, 42);
     padding: 1vh;
-    width: 30vh;
+    width: 30vw;
     text-align: center;
     color: white;
     text-decoration: none;
@@ -190,6 +190,7 @@
         font-family: VT323;
     }
     .minecraftbutton{
+        width: 80vw;
         font-family: VT323;
         font-size: 1.2rem;
     }
